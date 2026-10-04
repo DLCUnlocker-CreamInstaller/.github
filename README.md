@@ -9,7 +9,7 @@ Supported platforms are **Steam**, **Epic Games Store**, and **Ubisoft Connect**
 ## 🔗 Latest Release of CreamAPI
 
 - **💾 Version 5.0.0.5** – *Tool files & folders*  
-  👉 [The Latest Release](https://github.com/CreamInstaller-A-DLC-Unlocking-Tool/.github/releases)
+  👉 [The Latest Release](https://github.com/DLCUnlocker-CreamInstaller/.github/releases)
   
 * **Platform:** Windows
 * **Format:** `.zip` archive
